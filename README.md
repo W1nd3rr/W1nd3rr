@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @W1nd3rr
-- 👀 I’m interested in Frontend Web Developer
+- 👀 I’m interested in Backend Web Developer
 - 🌱 I’m currently learning Java, Html
 - 📫 How to reach me in winsilvianus@gmail.com
 
